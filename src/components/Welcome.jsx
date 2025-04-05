@@ -12,7 +12,7 @@ const ScrollingHighlight = () => {
               <span
                 key={index}
                 className={`text-2xl font-bold mx-4 ${
-                  index === 4 ? "text-white" : "text-white opacity-40"
+                  index === 4 ? "text-yellow-300" : "text-yellow-300 opacity-90"
                 }`}
               >
                 {text}
@@ -30,7 +30,7 @@ const ScrollingHighlight = () => {
               <span
                 key={index}
                 className={`text-2xl font-bold mx-4 ${
-                  index === 4 ? "text-white" : "text-white opacity-40"
+                  index === 4 ? "text-yellow-300" : "text-yellow-300 opacity-90"
                 }`}
               >
                 {text}
@@ -48,7 +48,7 @@ const ScrollingHighlight = () => {
               <span
                 key={index}
                 className={`text-2xl font-bold mx-4 ${
-                  index === 4 ? "text-white" : "text-white opacity-40"
+                  index === 4 ? "text-yellow-300" : "text-yellow-300 opacity-90"
                 }`}
               >
                 {text}
