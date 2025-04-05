@@ -22,7 +22,7 @@ export default function Header() {
         </div>
 
         {/* Menu Icon */}
-        <div
+        {/* <div
           className="flex items-center justify-center w-12 h-12 rounded-full cursor-pointer border-2 border-black bg-black"
           onClick={toggleMenu}
         >
@@ -31,7 +31,7 @@ export default function Header() {
           ) : (
             <Bars3Icon className="w-8 h-8 text-white" />
           )}
-        </div>
+        </div> */}
       </header>
 
       {/* Fixed Full-Screen Menu */}
