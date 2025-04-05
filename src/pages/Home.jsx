@@ -33,7 +33,7 @@ const Home = () => {
         <ReferralSection />
     
       
-      <Footer />
+{/*       <Footer /> */}
     </main>
   )
 }
